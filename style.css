@@ -401,6 +401,7 @@ border:1px solid #ddd;
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-bottom: 200px;
 }
 
 .contact-box{
