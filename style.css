@@ -47,6 +47,7 @@ transition:.3s;
 }
 
 .home{
+background color: skyblue;
 display:flex;
 justify-content:space-between;
 align-items:center;
